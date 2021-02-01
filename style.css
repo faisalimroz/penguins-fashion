@@ -1,6 +1,20 @@
 .background{
     background-color: rgb(243, 224, 188);
   }
-  #lady img{
-      width: 70%;
-  }
+ .card-footer{
+     border: 0px;
+ }
+ .orange{
+     height: 514px;
+ }
+ .red{
+     height: 514px;
+ }
+ .gray{
+     height: 514px;
+ }
+ .block{
+     display: block;
+ }
+
+ 
